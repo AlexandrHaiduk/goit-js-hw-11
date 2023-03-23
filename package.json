@@ -18,11 +18,10 @@
     "url": "https://github.com/AlexandrHaiduk/goit-js-hw-11.git/issues"
   },
   "dependencies": {
-    "flatpickr": "^4.6.13",
-    "lodash": "^4.17.21",
-    "lodash.debounce": "^4.0.8",
+    "axios": "^1.2.3",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6"
+    "notiflix": "^3.2.6",
+    "simplelightbox": "^2.12.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
