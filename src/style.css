@@ -24,7 +24,7 @@ img {
   width: 350px;
   border: 1px solid black;
   border-radius: 10px;
-  background-color: cornsilk;
+  background-color: rgb(203, 235, 247);
 }
 
 .photo {
@@ -36,7 +36,7 @@ img {
   padding: 10px 10px;
   display: flex;
   justify-content: space-around;
-  gap: 10px;
+  gap: 0;
   justify-content: center;
   padding: 0.75rem 1.65rem;
 
@@ -54,6 +54,8 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-right: 1px solid black;
+  padding: 0 10px;
 }
 
 form {
@@ -63,7 +65,7 @@ form {
 }
 
 .search-form {
-  background-color: rgb(63 86 177);
+  background-color: #e6e6e6;
 }
 
 .input {
@@ -93,7 +95,7 @@ button {
   height: 30px;
 
   font-size: 16px;
-  background: rgb(216, 231, 47);
+  background: rgb(182, 239, 247);
   border: none;
   position: relative;
   color: black;
